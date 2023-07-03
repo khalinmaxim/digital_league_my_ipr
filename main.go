@@ -1,9 +1,9 @@
 package main
 
 import (
-	"digital_league_my_ipr/linkedList"
+	"digital_league_my_ipr/hashTable"
 )
 
 func main() {
-	linkedList.Start()
+	hashTable.Start()
 }
