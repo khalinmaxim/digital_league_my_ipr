@@ -1,7 +1,9 @@
 package main
 
-import "digital_league_my_ipr/binaryTree"
+import (
+	"digital_league_my_ipr/linkedList"
+)
 
 func main() {
-	binaryTree.Start()
+	linkedList.Start()
 }
